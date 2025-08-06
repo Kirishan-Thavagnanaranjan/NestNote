@@ -6,6 +6,7 @@ NoteNest is a clean, minimalist React app that allows you to quickly add, view, 
 
 This project is part of a personal learning journey to build practical React + Firebase apps.
 
+
 🚀 Features
   📝 Add notes with a 50-character limit
 
@@ -18,6 +19,8 @@ This project is part of a personal learning journey to build practical React + F
   🔔 Toast notifications using react-hot-toast
 
   🧰 Beginner-friendly, great for learning React hooks and Firebase
+
+
 
 
 🧠 What You'll Learn
@@ -33,6 +36,8 @@ This project is part of a personal learning journey to build practical React + F
 
 
 
+
+
 📦 Tech Stack
   React (with TypeScript)
 
@@ -44,13 +49,18 @@ This project is part of a personal learning journey to build practical React + F
 
   Vite (build tool)
 
+  
+
 🎯 Getting Started
 Prerequisites
   Node.js (v16 or above)
 
 
 Installation
-  git clone https://github.com/your-username/notenest.git
+  git clone https://github.com/Kirishan-Thavagnanaranjan/NestNote.git
+
   cd notenest
+
   npm install
+
   npm run dev
